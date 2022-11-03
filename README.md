@@ -15,5 +15,6 @@
  <h3>Paso #4</h3> 
     Una vez iniciada la sesión podremos ir a la consola y crear nuestro proyectos
     
- ![WhatsApp Image 2022-11-03 at 12 18 48 AM](https://user-images.githubusercontent.com/71684891/199652429-d28a3a9b-d0db-4663-8955-afc83476e19f.jpeg)
+    
+![WhatsApp Image 2022-11-03 at 12 21 21 AM](https://user-images.githubusercontent.com/71684891/199652618-78bcb07b-c520-494d-bcef-0e89ec47328a.jpeg)
 
