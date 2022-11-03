@@ -1,10 +1,12 @@
-# Paso a Paso Para Crear Cuenta en FIREBASE
+# Paso a Paso Para Crear Cuenta en [FireBase](https://firebase.google.com/?hl=es)
 
+<h3>Paso #1</h3>
+    <li>Ingresar a la página de Firebase (https://firebase.google.com/?hl=es)</li>
+ <h3>Paso #2</h3> 
+    <li>Nos dirigimos hacia el botón que dice Acceder </li>
+ <h3>Paso #3</h3> 
+    <li>Nos dirigimos hacia el botón que dice Acceder </li>
 
-[Firebase](https://firebase.google.com/?hl=es)
-
-
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
 
 ## Requisitos mínimos
 
