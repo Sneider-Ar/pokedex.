@@ -3,11 +3,6 @@
 
 [Firebase](https://firebase.google.com/?hl=es)
 
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
-
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
-
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
 
 El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
 
