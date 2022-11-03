@@ -9,6 +9,11 @@
     
  <h3>Paso #3</h3> 
     Iniciamos sesión con la cuenta de Google
+    
+ ![image](https://user-images.githubusercontent.com/71684891/199651976-31511b86-728d-410c-a4cb-0c2afce281d3.png)   
+    
  <h3>Paso #4</h3> 
     Una vez iniciada la sesión podremos ir a la consola y crear nuestro proyectos
+    
+ ![WhatsApp Image 2022-11-03 at 12 18 48 AM](https://user-images.githubusercontent.com/71684891/199652429-d28a3a9b-d0db-4663-8955-afc83476e19f.jpeg)
 
