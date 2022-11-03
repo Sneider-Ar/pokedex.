@@ -5,7 +5,10 @@
  <h3>Paso #2</h3> 
     <li>Nos dirigimos hacia el botón que dice Acceder </li>
  <h3>Paso #3</h3> 
-    <li>Nos dirigimos hacia el botón que dice Acceder </li>
+    <li>Iniciamos sesión con la cuenta de Google</li>
+ <h3>Paso #4</h3> 
+    <li>Una vez iniciada la sesión daremos click en comenzar o en ir a la consola </li>
+ 
 
 
 ## Requisitos mínimos
