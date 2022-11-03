@@ -10,5 +10,5 @@
  <h3>Paso #3</h3> 
     Iniciamos sesión con la cuenta de Google
  <h3>Paso #4</h3> 
-    Una vez iniciada la sesión daremos click en comenzar o en ir a la consola
+    Una vez iniciada la sesión podremos ir a la consola y crear nuestro proyectos
 
