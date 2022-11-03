@@ -16,26 +16,26 @@
     ![image](https://user-images.githubusercontent.com/96387909/199776048-d92665d0-b424-49fa-9a48-c5f01addc9b6.png)
     ![image](https://user-images.githubusercontent.com/96387909/199776109-e17a7e0f-1cac-4e73-9838-4ee7d5028771.png)
     
-4.  Para los siguientes pasos puedes usar lo consola de windows(CMD) o una terminal de VScode y nos ubicamos en la carpera "pokedex-angular".
-    - En nuetro caso: `cd "\Downloads\pokedex-angular"`
-5. Antes de iniciar con la configuracion del hosting, ejecutamos el comando: `npm run build` para que nos cree la carpeta __dist\pokedex-angular__ que nos ayudara con el despliege.
+4.  Para los siguientes pasos puedes usar lo consola de Windows(CMD) o una terminal de VScode y nos ubicamos en la carpera "pokedex-angular".
+    - En nuestro caso: `cd "\Downloads\pokedex-angular"`
+5. Antes de iniciar con la configuración del hosting, ejecutamos el comando: `npm run build` para que nos cree la carpeta __dist\pokedex-angular__ que nos ayudara con el despliegue.
 6. Luego se instala la Firebase CLI con el comando: `$ npm install -g firebase-tools`.
-7. Despues que se haya instalado el Firebase CLI, iniciamos sesion con la cuenta de Firebase con el comando: `$ firebase login`.
+7. Después que se haya instalado el Firebase CLI, iniciamos sesión con la cuenta de Firebase con el comando: `$ firebase login`.
 
     ![image](https://user-images.githubusercontent.com/96387909/199783916-97368468-dd14-4043-baa8-6913f7fdf8c7.png)
     
-8. Ahora inicialisamos el proyeto con el comando: `$ firebase init`.
+8. Ahora inicializamos el proyecto con el comando: `$ firebase init`.
     ![image](https://user-images.githubusercontent.com/96387909/199784684-2c3a568b-b044-49e5-948c-4ed56f9e77c4.png)
-    - Una vez le indiquemos que estamos listos, selecionaremos la herramienta que vamos a usar de Firebase en este caso hosting.
+   - Una vez le indiquemos que estamos listos, seleccionaremos la herramienta que vamos a usar de Firebase en este caso hosting.
       ![image](https://user-images.githubusercontent.com/96387909/199787275-b4a7c797-1d88-4b60-8526-4a7983012efc.png)
     - Luego nos preguntara que si usaremos un proyecto existente o crearemos un nuevo proyecto, en nuestro caso seleccionamos un proyecto existente.
       ![image](https://user-images.githubusercontent.com/96387909/199790087-7eef542a-c1f9-4c76-a21f-667755d99dc4.png)
-    - Selecionamos el proyecto creado en el primer paso llamado __pokedex-d__.
+    - Seleccionamos el proyecto creado en el primer paso llamado __pokedex-d__.
       ![image](https://user-images.githubusercontent.com/96387909/199791333-f2c2642a-d012-4528-bb80-38e768c19853.png)
-    - Despues nos preguntara "What do you want to use as your public directory?" (¿Qué quieres usar como tu directorio público?), al lado escribimos el nombre de la carpeta que se creo cuando hicimos `npm run build` que fue __dist\pokedex-angular__.
+   - Después nos preguntara "What do you want to use as your public directory?" (¿Qué quieres usar como tu directorio público?), al lado escribimos el nombre de la carpeta que se creó cuando hicimos `npm run build` que fue __dist\pokedex-angular__.
     - La siguiente pregunta que nos hace es "Configure as a single-page app (rewrite all urls to /index.html)?" la marcamos con un __Yes__
     - En las dos ultimas preguntas "Set up automatic builds and deploys with GitHub?" y "File dist/_pokedex-angular/index.html already exists. Overwrite?" 
- le decimos que  __No__.
+ le decimos que __No__.
       ![image](https://user-images.githubusercontent.com/96387909/199807242-4e7402a3-42b6-4bdb-85bd-11a6e5441bdd.png)
     - __¡Inicialización de Firebase completa!__
     
