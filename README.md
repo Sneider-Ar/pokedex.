@@ -1,7 +1,7 @@
-# Pokédex Angular Paso a Paso Para Crear Cuenta en FIREBASE
+# Paso a Paso Para Crear Cuenta en FIREBASE
 
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
+[Firebase](https://firebase.google.com/?hl=es)
 
 La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
 
