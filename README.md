@@ -1,9 +1,9 @@
 # Paso a Paso Para Crear Cuenta en [FireBase](https://firebase.google.com/?hl=es)
 
 <h3>Paso #1</h3>
-    <li>Ingresar a la página de Firebase (https://firebase.google.com/?hl=es)</li>
+    Ingresar a la página de Firebase (https://firebase.google.com/?hl=es)
  <h3>Paso #2</h3> 
-    <li>Nos dirigimos hacia el botón que dice Acceder </li>
+    Nos dirigimos hacia el botón que dice Acceder 
  <h3>Paso #3</h3> 
     <li>Iniciamos sesión con la cuenta de Google</li>
  <h3>Paso #4</h3> 
